@@ -1,0 +1,5 @@
+Luego de haber realizado el trabajo con estas 3 opciones decidi continuar con ejs ya que
+ se me hace mas facil la escritura y la comprension del js, 
+la experiencia con pug no fue mala pero se me dificultaba la escritura
+ y el control de tabulaciones. handlebars sinceramenten no me gusto su sintaxis 
+y me parecio muy poco practica.
